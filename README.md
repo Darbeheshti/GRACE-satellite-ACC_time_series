@@ -1,1 +1,1 @@
-# GRACE-digital-twin
+# GRACE digital twin
