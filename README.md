@@ -1,4 +1,5 @@
 # GRACE Satellites Digital Twin
+<img width="1011" alt="Screenshot 2023-05-27 at 1 24 54 PM" src="https://github.com/Darbeheshti/GRACE-satellite-digital-twin/assets/50994293/ae690307-5f21-4312-a82b-d62316f6c9d8">
 
 In the GRACE mock data challenge project, I successfully generated data for each of the five sensors within GRACE Follow-on satellites. These efforts allowed me to create digital twins for each instrument, resulting in simulated observations spanning one month.
 
@@ -15,3 +16,6 @@ This concept holds significant interest as it addresses the missing months betwe
 My idea is to use 15 years of GRACE twin satellite data to train a machine learning architecture and create a digital twin. This digital twin can be used to extend the time span and incorporate additional constellations, improving gravity products and mission design. It essentially creates a "time machine" for the GRACE mission.
 
 In this repository, my approach is to disregard all prior knowledge about the GRACE mission. Instead, I solely rely on the data available, which consists of daily files containing instrument data for a specific satellite. Using time series machine learning techniques and feature engineering, I aim to create a digital replica of that instrument on another satellite. By doing so, I am able to replicate the instrument's behavior and characteristics without relying on my existing knowledge of the GRACE mission.
+
+
+
