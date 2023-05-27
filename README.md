@@ -1,5 +1,8 @@
 # GRACE Satellites Digital Twin
-<img width="1011" alt="Screenshot 2023-05-27 at 1 24 54 PM" src="https://github.com/Darbeheshti/GRACE-satellite-digital-twin/assets/50994293/ae690307-5f21-4312-a82b-d62316f6c9d8">
+<img width="1004" alt="Screenshot 2023-05-27 at 1 27 37 PM" src="https://github.com/Darbeheshti/GRACE-satellite-digital-twin/assets/50994293/3bf234e9-749c-421b-9d02-3d35945b0541">
+
+
+
 
 In the GRACE mock data challenge project, I successfully generated data for each of the five sensors within GRACE Follow-on satellites. These efforts allowed me to create digital twins for each instrument, resulting in simulated observations spanning one month.
 
