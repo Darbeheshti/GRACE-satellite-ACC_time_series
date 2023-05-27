@@ -1,4 +1,4 @@
-# GRACE digital twin
+# GRACE Satellites Digital Twin
 
 In the GRACE mock data challenge project, I successfully generated data for each of the five sensors within GRACE Follow-on satellites. These efforts allowed me to create digital twins for each instrument, resulting in simulated observations spanning one month.
 
