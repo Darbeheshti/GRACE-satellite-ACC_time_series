@@ -1,3 +1,7 @@
+
+
+<img width="480" alt="Screenshot 2023-06-04 at 2 21 48 PM" src="https://github.com/Darbeheshti/GRACE-satellite-ACC_time_series/assets/50994293/b6320254-8f6f-41f4-9d49-0f99e93e63a9">
+
 # GRACE satellites accelerometer time series analysis
 
 # Problem defenition
