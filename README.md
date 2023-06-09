@@ -13,5 +13,9 @@ This is a quick 5-week project that began on May 22, 2023. The main goal is to u
 
 An important detail to consider is that the travel time between GRACE A and GRACE B is approximately 25 to 35 seconds.
 
+For Beta prime angle, this plot from https://www2.csr.utexas.edu/grace/operations/configuration.html is helpful:
+<img width="1236" alt="Screenshot 2023-06-09 at 7 18 27 PM" src="https://github.com/Darbeheshti/GRACE-satellite-ACC_time_series/assets/50994293/1da1f7b3-7bb4-4008-9d8a-fef4fdca44ef">
+
+
 
 
