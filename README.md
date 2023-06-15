@@ -10,6 +10,8 @@ This is a quick 5-week project that began on May 22, 2023. The main goal is to u
     GRACE problem: Filling in gaps in the GRACE ACC time series, similar to the missing data we often observe since 2011.
     
     GRACE Follow-On problem: Taking data from one satellite and applying it to another satellite.
+    
+This repository focuses on time series modeling and compares the performance of three popular architectures: LSTM, MLP, and XGBoost. LSTM (Long Short-Term Memory) is a recurrent neural network known for capturing long-term dependencies and sequential patterns. MLP (Multi-Layer Perceptron) is a feedforward neural network suitable for capturing complex nonlinear relationships. XGBoost, an ensemble method, builds models iteratively and excels at handling tabular data. The choice of architecture depends on the data characteristics, problem requirements, and trade-offs such as interpretability and computational resources. By experimenting and evaluating these architectures, users can select the most suitable one for GRACE ACC forcasting.
 
 An important detail to consider is that the travel time between GRACE A and GRACE B is approximately 25 to 35 seconds.
 
