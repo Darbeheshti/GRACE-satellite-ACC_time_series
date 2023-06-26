@@ -18,6 +18,15 @@ An important detail to consider is that the travel time between GRACE A and GRAC
 For Beta prime angle, this plot from https://www2.csr.utexas.edu/grace/operations/configuration.html is helpful:
 <img width="1236" alt="Screenshot 2023-06-09 at 7 18 27 PM" src="https://github.com/Darbeheshti/GRACE-satellite-ACC_time_series/assets/50994293/1da1f7b3-7bb4-4008-9d8a-fef4fdca44ef">
 
+# The bias and scale that has been added to the ACC simulated data
+#acc_scale_A = [0.9595 0.9797  0.9485];
+#acc_bias_A = [-1.106 27.042 -0.5486];
+#acc_ng_SF_bs_A = acc_ng_A_SF.*acc_scale_A + acc_bias_A*1E-6;
+
+#acc_scale_B = [0.9465 0.9842   0.9303];
+#acc_bias_B = [-0.5647 7.5101 -0.8602];
+#acc_ng_SF_bs_B = acc_ng_B_SF.*acc_scale_B + acc_bias_B*1E-6;
+
 
 
 
